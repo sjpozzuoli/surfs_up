@@ -18,4 +18,9 @@
 
 ## Summary
 
+#### Overall, the temperature data for the months of June and December show that a surf and ice cream shop's sales will not be inhibited by cold weather during the winter months. Potential investors should not be scared away on account of temperature swings.
 
+#### There are two data analyses that could be performed to strengthen the pitch to potential investors.
+
+1. An analysis on the annual precepitation broken down month to month could go a long way. This would show if the winter months saw a much larger amount of precipitation, which, in turn, would cause a reduction of the number of people wanting to go surfing.
+2. During the lead up to this challenge, we examined the weather data at different weather stations. Rather than examine the average of every weather station on the island of Oahu, it may be more acccurate to examine a couple that are closest in location to the surf and ice cream shop. 
